@@ -10,7 +10,7 @@
     <script src="https://unpkg.com/scrollama"></script>
     <style>
         body {
-            margin:0; 
+            margin:0;
             padding:0;
             font-family: sans-serif;
         }
@@ -25,10 +25,13 @@
             z-index: -5;
         }
         #header {
-            margin: 3vh auto;
+            <! -- margin: 3vh auto; -->
             width: 90vw;
-            padding: 2vh;
+            padding: 1vh;
             text-align: center;
+            background-color: rgba(0,50,0,.8);
+            color: white;
+            font-family: fantasy;
         }
         #footer {
             width: 100%;
@@ -74,13 +77,18 @@
         }
 
         .step div {
-            padding:  25px 50px;
+            padding:  20px;
             line-height: 25px;
             font-size: 13px;
+            background-color: rgba(0,0,0,.5);
+            color: white;
         }
 
         .step img {
             width: 100%;
+            border-style: solid;
+            border-color: black;
+            border-width: thin;
         }
 
         @media (max-width: 750px) {
