@@ -73,6 +73,118 @@ var config = {
               //     opacity: 1
             ],
             onChapterExit: []
+        },
+        {
+            id: 'mt_hough',
+            title: 'Ride 2: Mount Hough Downhill',
+            image: '',
+            description: 'The flow of Mount Hough was a nice break from the grind of Downieville.',
+            location: {
+              center: [-120.87033, 39.99773],
+              zoom: 12.32,
+              pitch: 48.00,
+              bearing: -152.10
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'spicer_ranch',
+            title: 'Ride 3: Spicer Ranch',
+            image: '',
+            description: 'Funky area perfect for camping with some shale trails surrounded by livestock. Cool spot in the middle of nowhere.',
+            location: {
+              center: [-116.70991, 36.99503],
+              zoom: 15.43,
+              pitch: 55.00,
+              bearing: 177.04
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'gooseberry_mesa',
+            title: 'Ride 4: Gooseberry Mesa',
+            image: '',
+            description: '',
+            location: {
+              center: [-113.20247, 37.13607],
+              zoom: 13.57,
+              pitch: 24.00,
+              bearing: 0.00
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'zion',
+            title: 'Ride 5: Zion Canyon National Park',
+            image: '',
+            description: '',
+            location: {
+              center: [-112.97910, 37.20857],
+              zoom: 12.19,
+              pitch: 20.50,
+              bearing: -40.00
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'angels_landing',
+            title: 'Hike to Angels Landing',
+            image: '',
+            description: '',
+            location: {
+              center: [-112.94831, 37.27237],
+              zoom: 15.38,
+              pitch: 43.50,
+              bearing: 136.11
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'bear_claw_poppy',
+            title: 'Ride 6: Bear Claw Poppy Trail',
+            image: '',
+            description: '',
+            location: {
+              center: [-113.67334, 37.06564],
+              zoom: 12.84,
+              pitch: 41.00,
+              bearing: 0.00
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
+        },
+        {
+            id: 'alabama_hills',
+            title: 'Ride 7: Alabama Hills with Lu',
+            image: '',
+            description: '',
+            location: {
+              center: [-118.13221, 36.60545],
+              zoom: 14.17,
+              pitch: 30.50,
+              bearing: -9.33
+            },
+            onChapterEnter: [
+              //     opacity: 1
+            ],
+            onChapterExit: []
         }
     ]
 };
