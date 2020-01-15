@@ -67,7 +67,7 @@ var config = {
               center: [-120.72260, 39.58770],
               zoom: 12.71,
               pitch: 60.00,
-              bearing: -77.63
+              bearing: 0
             },
             onChapterEnter: [
               //     opacity: 1
@@ -77,13 +77,13 @@ var config = {
         {
             id: 'mt_hough',
             title: 'Ride 2: Mount Hough Downhill',
-            image: 'images/20191102-IMG_0006.jpg',
+            image: 'images/mt_hough_pic.jpg',
             description: 'The flow of Mount Hough was a nice break from the grind of Downieville. And we ended the night with a few games of skeeball, which Jenna won :)',
             location: {
               center: [-120.87033, 39.99773],
               zoom: 12.32,
               pitch: 48.00,
-              bearing: -152.10
+              bearing: -0
             },
             onChapterEnter: [
               //     opacity: 1
@@ -93,13 +93,13 @@ var config = {
         {
             id: 'spicer_ranch',
             title: 'Ride 3: Spicer Ranch',
-            image: 'images/spicer ranch.jpg',
+            image: 'images/spicer_ranch.jpg',
             description: 'Funky area perfect for camping with some shale trails surrounded by livestock. Cool spot in the middle of nowhere.',
             location: {
               center: [-116.70991, 36.99503],
               zoom: 15.43,
               pitch: 55.00,
-              bearing: 177.04
+              bearing: 0
             },
             onChapterEnter: [
               //     opacity: 1
@@ -109,7 +109,7 @@ var config = {
         {
             id: 'gooseberry_mesa',
             title: 'Ride 4: Gooseberry Mesa',
-            image: 'images/gooseberry mesa.jpg',
+            image: 'images/gooseberry_mesa.jpg',
             description: '',
             location: {
               center: [-113.20247, 37.13607],
@@ -125,13 +125,13 @@ var config = {
         {
             id: 'zion',
             title: 'Ride 5: Zion Canyon National Park',
-            image: '',
+            image: 'images/zion_road_bike.jpg',
             description: '',
             location: {
               center: [-112.97910, 37.20857],
               zoom: 12.19,
               pitch: 20.50,
-              bearing: -40.00
+              bearing: 0
             },
             onChapterEnter: [
               //     opacity: 1
@@ -141,13 +141,13 @@ var config = {
         {
             id: 'angels_landing',
             title: 'Hike to Angels Landing',
-            image: '',
+            image: 'images/angels_landing.jpg',
             description: '',
             location: {
               center: [-112.94831, 37.27237],
               zoom: 15.38,
               pitch: 43.50,
-              bearing: 136.11
+              bearing: 0
             },
             onChapterEnter: [
               //     opacity: 1
@@ -157,7 +157,7 @@ var config = {
         {
             id: 'bear_claw_poppy',
             title: 'Ride 6: Bear Claw Poppy Trail',
-            image: '',
+            image: 'images/bear_claw_poppy.jpg',
             description: '',
             location: {
               center: [-113.67334, 37.06564],
@@ -173,13 +173,13 @@ var config = {
         {
             id: 'alabama_hills',
             title: 'Ride 7: Alabama Hills with Lu',
-            image: '',
+            image: 'images/alabama_hills.jpg',
             description: '',
             location: {
               center: [-118.13221, 36.60545],
               zoom: 14.17,
               pitch: 30.50,
-              bearing: -9.33
+              bearing: 0
             },
             onChapterEnter: [
               //     opacity: 1
