@@ -77,8 +77,8 @@ var config = {
         {
             id: 'mt_hough',
             title: 'Ride 2: Mount Hough Downhill',
-            image: '',
-            description: 'The flow of Mount Hough was a nice break from the grind of Downieville.',
+            image: 'images/mt_hough.jpg',
+            description: 'The flow of Mount Hough was a nice break from the grind of Downieville. And we ended the night with a few games of skeeball, which Jenna won :)',
             location: {
               center: [-120.87033, 39.99773],
               zoom: 12.32,
@@ -93,7 +93,7 @@ var config = {
         {
             id: 'spicer_ranch',
             title: 'Ride 3: Spicer Ranch',
-            image: '',
+            image: 'images/spicer ranch.jpg',
             description: 'Funky area perfect for camping with some shale trails surrounded by livestock. Cool spot in the middle of nowhere.',
             location: {
               center: [-116.70991, 36.99503],
@@ -109,7 +109,7 @@ var config = {
         {
             id: 'gooseberry_mesa',
             title: 'Ride 4: Gooseberry Mesa',
-            image: '',
+            image: 'images/gooseberry mesa.jpg',
             description: '',
             location: {
               center: [-113.20247, 37.13607],
