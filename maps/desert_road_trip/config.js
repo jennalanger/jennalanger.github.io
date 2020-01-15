@@ -77,7 +77,7 @@ var config = {
         {
             id: 'mt_hough',
             title: 'Ride 2: Mount Hough Downhill',
-            image: 'images/mt_hough.jpg',
+            image: 'images/20191102-IMG_0006.jpg',
             description: 'The flow of Mount Hough was a nice break from the grind of Downieville. And we ended the night with a few games of skeeball, which Jenna won :)',
             location: {
               center: [-120.87033, 39.99773],
