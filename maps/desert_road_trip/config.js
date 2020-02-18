@@ -40,6 +40,7 @@ var config = {
             image: 'images/20191102-IMG_0004.jpg',
             description: 'Friday afternoon we left South Lake Tahoe and headed for Downieville, planning to camp somewhere near the top of the trailhead. As we arrived in the dark the safest bet was a campground a couple miles below the top.',
             location: {
+                duration: 6000,
                 center: [-120.64954400, 39.62439700],
                 zoom: 10,
                 pitch: 60,
@@ -80,6 +81,7 @@ var config = {
             image: 'images/mt_hough_pic.jpg',
             description: 'The flow of Mount Hough was a nice break from the grind of Downieville. And we ended the night with a few games of skeeball, which Jenna won :)',
             location: {
+              duration: 6000,
               center: [-120.87033, 39.99773],
               zoom: 12.32,
               pitch: 48.00,
@@ -99,7 +101,8 @@ var config = {
               center: [-116.70991, 36.99503],
               zoom: 15.43,
               pitch: 55.00,
-              bearing: 0
+              bearing: 0,
+              speed: .5
             },
             onChapterEnter: [
               //     opacity: 1
