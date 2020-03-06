@@ -1,0 +1,1507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/222646246",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "3819",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Saddle Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "name": "Himmel Haus",
+        "phone": "+1 (530) 314-7665",
+        "source": "Bing",
+        "website": "http://himmelhaustahoe.com",
+        "id": "way/222646246",
+        "happy_hours": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9410503,
+              38.9372883
+            ],
+            [
+              -119.9410102,
+              38.9372319
+            ],
+            [
+              -119.9410196,
+              38.9372279
+            ],
+            [
+              -119.9409982,
+              38.9371978
+            ],
+            [
+              -119.9409888,
+              38.9372019
+            ],
+            [
+              -119.9409582,
+              38.937159
+            ],
+            [
+              -119.940754,
+              38.937247
+            ],
+            [
+              -119.9408461,
+              38.9373763
+            ],
+            [
+              -119.9410503,
+              38.9372883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222646250",
+      "properties": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian;2",
+        "name": "Izabella Ristorante Italiano",
+        "source": "Bing",
+        "id": "way/222646250",
+        "happy_hours": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.946358,
+              38.9542549
+            ],
+            [
+              -119.9462845,
+              38.9542049
+            ],
+            [
+              -119.9462791,
+              38.9542097
+            ],
+            [
+              -119.9461248,
+              38.9541048
+            ],
+            [
+              -119.9459746,
+              38.9542384
+            ],
+            [
+              -119.9460126,
+              38.9542642
+            ],
+            [
+              -119.9460044,
+              38.9542714
+            ],
+            [
+              -119.9461796,
+              38.9543905
+            ],
+            [
+              -119.9461877,
+              38.9543833
+            ],
+            [
+              -119.9462024,
+              38.9543933
+            ],
+            [
+              -119.946358,
+              38.9542549
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222646266",
+      "properties": {
+        "addr:state": "CA",
+        "amenity": "restaurant",
+        "brand": "Applebee's Neighborhood Grill & Bar",
+        "brand:wikidata": "Q621532",
+        "brand:wikipedia": "en:Applebee's",
+        "building": "commercial",
+        "cuisine": "american",
+        "name": "Applebee's",
+        "official_name": "Applebee's Neighborhood Grill & Bar",
+        "source": "Bing",
+        "id": "way/222646266"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.945388,
+              38.9548409
+            ],
+            [
+              -119.9455711,
+              38.9549382
+            ],
+            [
+              -119.9456122,
+              38.9548915
+            ],
+            [
+              -119.945621,
+              38.9548962
+            ],
+            [
+              -119.9456595,
+              38.9548524
+            ],
+            [
+              -119.9456507,
+              38.9548477
+            ],
+            [
+              -119.9457507,
+              38.9547339
+            ],
+            [
+              -119.9455676,
+              38.9546366
+            ],
+            [
+              -119.945485,
+              38.9547307
+            ],
+            [
+              -119.9454586,
+              38.9547167
+            ],
+            [
+              -119.9454241,
+              38.954756
+            ],
+            [
+              -119.9454504,
+              38.95477
+            ],
+            [
+              -119.945388,
+              38.9548409
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222646367",
+      "properties": {
+        "amenity": "restaurant",
+        "building": "hotel",
+        "building:levels": "1",
+        "name": "LewMarNel's Steaks and Spirits",
+        "operator": "Best Western",
+        "website": "https://www.stationhouseinn.com/dining.aspx",
+        "id": "way/222646367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9488128,
+              38.9579693
+            ],
+            [
+              -119.9485983,
+              38.95787
+            ],
+            [
+              -119.9485246,
+              38.9579661
+            ],
+            [
+              -119.9487392,
+              38.9580655
+            ],
+            [
+              -119.9488128,
+              38.9579693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222688344",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "3940",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Lake Tahoe Boulevard",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/SushiSLT/",
+        "contact:twitter": "https://twitter.com/TheNakedFishSLT",
+        "cuisine": "japanese;sushi",
+        "happy_hours": "Mo-Th 17:00-18:30",
+        "name": "The Naked Fish",
+        "opening_hours": "Mo-Fr 17:00-22:00; Sa,Su 12:00-23:00",
+        "phone": "+1-530-541-3474",
+        "source": "Bing;local knowledge",
+        "website": "http://www.thenakedfish.com/",
+        "id": "way/222688344"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9466734,
+              38.9533288
+            ],
+            [
+              -119.9468391,
+              38.9532346
+            ],
+            [
+              -119.9466761,
+              38.9530612
+            ],
+            [
+              -119.9465898,
+              38.9531102
+            ],
+            [
+              -119.9465977,
+              38.9531186
+            ],
+            [
+              -119.946547,
+              38.9531943
+            ],
+            [
+              -119.9466734,
+              38.9533288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222773170",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "2401",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Lake Tahoe Blvd",
+        "amenity": "restaurant",
+        "building": "yes",
+        "delivery": "no",
+        "name": "The Hangar",
+        "outdoor_seating": "yes",
+        "source": "Bing",
+        "id": "way/222773170"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9905768,
+              38.9230527
+            ],
+            [
+              -119.990526,
+              38.9229926
+            ],
+            [
+              -119.9904821,
+              38.9230151
+            ],
+            [
+              -119.990533,
+              38.9230752
+            ],
+            [
+              -119.9905768,
+              38.9230527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365587418",
+      "properties": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Cafe Fiore",
+        "website": "http://www.cafefiore.com/index.html",
+        "id": "way/365587418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9534514,
+              38.9437842
+            ],
+            [
+              -119.9535174,
+              38.9437515
+            ],
+            [
+              -119.9534722,
+              38.9436962
+            ],
+            [
+              -119.9534062,
+              38.9437289
+            ],
+            [
+              -119.9534514,
+              38.9437842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371815499",
+      "properties": {
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Hope Valley Cafe & Market",
+        "shop": "convenience",
+        "id": "way/371815499"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.8957947,
+              38.7756095
+            ],
+            [
+              -119.8955425,
+              38.7755925
+            ],
+            [
+              -119.8955351,
+              38.7756589
+            ],
+            [
+              -119.8957873,
+              38.7756759
+            ],
+            [
+              -119.8957947,
+              38.7756095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372087955",
+      "properties": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Sorensens Cafe",
+        "id": "way/372087955",
+        "happy_hours": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9031959,
+              38.7746007
+            ],
+            [
+              -119.9031022,
+              38.7745625
+            ],
+            [
+              -119.9030192,
+              38.7746862
+            ],
+            [
+              -119.903113,
+              38.7747244
+            ],
+            [
+              -119.9031959,
+              38.7746007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438076350",
+      "properties": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Boathouse on the Pier",
+        "id": "way/438076350",
+        "happy_hours": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9667147,
+              38.9477656
+            ],
+            [
+              -119.9668195,
+              38.9477384
+            ],
+            [
+              -119.9667599,
+              38.9476036
+            ],
+            [
+              -119.9666545,
+              38.9476289
+            ],
+            [
+              -119.9667147,
+              38.9477656
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441988177",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "4081",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Lakeshore Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Beach House",
+        "outdoor_seating": "yes",
+        "phone": "+1 530-544-4050",
+        "source:addr": "http://beachhousetahoe.com/",
+        "source:phone": "http://beachhousetahoe.com/",
+        "website": "http://beachhousetahoe.com/",
+        "id": "way/441988177",
+        "happy_hours": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9504511,
+              38.9600863
+            ],
+            [
+              -119.9505619,
+              38.9598412
+            ],
+            [
+              -119.9504621,
+              38.9598139
+            ],
+            [
+              -119.9503512,
+              38.960059
+            ],
+            [
+              -119.9503292,
+              38.9601078
+            ],
+            [
+              -119.950429,
+              38.9601351
+            ],
+            [
+              -119.9504511,
+              38.9600863
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/757741052",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "2588",
+        "addr:postcode": "96150-7730",
+        "addr:state": "CA",
+        "addr:street": "Lake Tahoe Boulevard",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "Samurai Restaurant",
+        "source": "Bing aerial",
+        "id": "way/757741052"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.9848042,
+              38.9259636
+            ],
+            [
+              -119.9847204,
+              38.9258859
+            ],
+            [
+              -119.9846375,
+              38.9259406
+            ],
+            [
+              -119.9847162,
+              38.9260141
+            ],
+            [
+              -119.984687,
+              38.9260333
+            ],
+            [
+              -119.9848061,
+              38.9261365
+            ],
+            [
+              -119.9849162,
+              38.9260674
+            ],
+            [
+              -119.9848042,
+              38.9259636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/643376863",
+      "properties": {
+        "amenity": "restaurant",
+        "brand": "Hard Rock Cafe",
+        "brand:wikidata": "Q918151",
+        "brand:wikipedia": "en:Hard Rock Cafe",
+        "cuisine": "american",
+        "name": "Hard Rock Cafe",
+        "id": "node/643376863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9409326,
+          38.9621661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/775375616",
+      "properties": {
+        "addr:housenumber": "4100",
+        "addr:postcode": "96150",
+        "addr:street": "Lake Tahoe Boulevard",
+        "amenity": "restaurant",
+        "name": "FiRE + iCE",
+        "phone": "+1 (530) 542-6650",
+        "website": "http://www.fire-ice.com/locations/lake-tahoe-ca",
+        "happy_hours": "Mo-Su 15:00-18:00",
+        "happy_hour_offer": "https://fire-ice.com/wp-content/uploads/2019/09/screen-shot-2019-09-25-at-4.28.11-pm.png",
+        "id": "node/775375616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9420535,
+          38.9566981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2320328784",
+      "properties": {
+        "amenity": "bar",
+        "name": "The Divided Sky",
+        "contact:facebook": "https://www.facebook.com/meyerspride/",
+        "website": "https://thedividedsky.com/",
+        "id": "node/2320328784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0208951,
+          38.8523169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669085836",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Base Camp Pizza",
+        "website": "https://basecamppizzaco.com/",
+        "opening_hours": "Su-Th 11:00-21:00; Fr,Sa 12:00-22:00",
+        "happy_hours": "Su-Sa 14:00-17:00",
+        "contact:facebook": "https://www.facebook.com/BaseCampPizza/",
+        "happy_hour_offer": "$3 off all Draft beer and Specialty bottles and canned beer",
+        "id": "node/2669085836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9424906,
+          38.9562092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2711458136",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Super Tacos Mexican Restaurant",
+        "id": "node/2711458136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9447431,
+          38.9589114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155518028",
+      "properties": {
+        "amenity": "bar",
+        "name": "Beacon Bar & Grill",
+        "opening_hours": "Su-Sa 11:30-20:00",
+        "happy_hours": "Mo-Fr :14:00-17:00",
+        "website": "https://www.camprichardson.com/the-beacon-bar-grill/",
+        "contact:facebook": "https://www.facebook.com/CampRichardson",
+        "id": "node/3155518028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0389001,
+          38.9382949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3695638627",
+      "properties": {
+        "amenity": "bar",
+        "name": "Gunbarrel Tavern",
+        "happy_hours": "Su-Fr 15:00-18:00",
+        "website": "http://www.gunbarreltavern.com/",
+        "happy_hours_offer": "$3 Select Draft Beers, $3 Well Drinks, $5 Glass of House Wine, $5 Shots, $5 HAPPY HOUR APPETIZERS",
+        "id": "node/3695638627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9420761,
+          38.9562849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3695638628",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "hawaiian",
+        "name": "Kalani's",
+        "website": "http://www.kalanis.com/",
+        "happy_hours": "Mo-Fr 16:00-18:00, Sa-Su 15:00-18:00",
+        "happy_hour_offer": "$7 Cocktails, $4-6 beer and wine, APPETIZERS",
+        "id": "node/3695638628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9427466,
+          38.956043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4185973007",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:flats": "3",
+        "addr:housenumber": "900",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Ski Run Boulevard",
+        "amenity": "restaurant",
+        "name": "Riva Grill On the Lake",
+        "opening_hours": "Mo-Fr 11:30+; Sa,Su 10:30+",
+        "outdoor_seating": "yes",
+        "phone": "+1 530-542-2600",
+        "website": "https://www.rivagrill.com/",
+        "happy_hours": "Mo-Fr 16:00-18:00",
+        "id": "node/4185973007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9593329,
+          38.9498191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212943574",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Stateline Brewing & Resaurant",
+        "website": "https://statelinebrewery.com/",
+        "happy_hours": "Su-Sa 15:00-17:00",
+        "opening_hours": "Sa-Th 11:00-22:00; Fr-Sa 11:00-00:00",
+        "happy_hour_offer": "Beer, wine, mixed drinks, appeetizers: https://statelinebrewery.com/price-list",
+        "id": "node/4212943574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9423557,
+          38.9578565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212943577",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Azul Latin Kitchen",
+        "happy_hours": "Mo-Su 14:00-17:00",
+        "website": "https://azullatinkitchen.com/",
+        "happy_hour_offer": "Draft beer, margaritas, wine, tequila, APPETIZERS: https://azullatinkitchen.com/bar-menu/",
+        "id": "node/4212943577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9439436,
+          38.9556206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212943581",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Blue Dog Gourmet Pizza",
+        "website": "http://www.bluedogpizzatahoe.com/",
+        "id": "node/4212943581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9424032,
+          38.9547687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212945190",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Mo's Place",
+        "id": "node/4212945190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9593261,
+          38.9475085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212945191",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Los Mexicanos",
+        "id": "node/4212945191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9609032,
+          38.9466574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4212945193",
+      "properties": {
+        "amenity": "pub",
+        "cuisine": "burger",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "The Brewery at Lake Tahoe",
+        "happy_hour_offer": "$4 Brewery Pints, $4 Wells, $4 Wines, food specials",
+        "id": "node/4212945193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9617749,
+          38.9465615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4213266591",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "ice_cream",
+        "name": "Richardson's Ice Cream Parlor",
+        "id": "node/4213266591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0399936,
+          38.9337145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217810121",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Burger Stop",
+        "id": "node/4217810121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0039887,
+          38.9112056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217810125",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Lake Tahoe Pizza",
+        "website": "http://laketahoepizzaco.com/",
+        "id": "node/4217810125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0017352,
+          38.9077143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217810129",
+      "properties": {
+        "amenity": "pub",
+        "name": "MacDuff's Pub",
+        "website": "http://macduffspub.com/",
+        "id": "node/4217810129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9708553,
+          38.9442196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217810132",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "RoJo's Tavern",
+        "website": "https://rojostavern.com/",
+        "happy_hours": "Su-Fr 15:00-17:00",
+        "happy_hour_offer": "Beer, wine, well drinks, appetizers",
+        "id": "node/4217810132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9775844,
+          38.9409685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828503",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Off the Hook",
+        "id": "node/4217828503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9824772,
+          38.927554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828505",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Blue Dog Gourmet Pizza",
+        "id": "node/4217828505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9856342,
+          38.9252879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828507",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Scusa Italian Ristorante",
+        "id": "node/4217828507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985531,
+          38.9274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828509",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Margaritas Mexican Cafe",
+        "id": "node/4217828509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9877706,
+          38.924066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828510",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Brothers Bar & Grill",
+        "id": "node/4217828510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0074651,
+          38.916637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828512",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Sonny's BBQ",
+        "id": "node/4217828512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0112117,
+          38.9183454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828513",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "765",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Emerald Bay Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "The Cantina Bar & Grill",
+        "id": "node/4217828513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0120511,
+          38.919002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217828514",
+      "properties": {
+        "amenity": "restaurant",
+        "name": "Burger Lounge",
+        "id": "node/4217828514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0135798,
+          38.9200779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4217986654",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Straw Hat Pizza",
+        "id": "node/4217986654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9423121,
+          38.9599553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4381781507",
+      "properties": {
+        "FIXME": "Replace with a building outline when imagery updates.",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "McP's Taphouse Grill",
+        "id": "node/4381781507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9426699,
+          38.9590264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4384588573",
+      "properties": {
+        "addr:city": "South Lake Tahoe",
+        "addr:housenumber": "900",
+        "addr:postcode": "96150",
+        "addr:state": "CA",
+        "addr:street": "Ski Run Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Artemis Lakefront Cafe",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 530-542-3332",
+        "takeaway": "no",
+        "website": "http://www.artemislakefrontcafe.com/",
+        "id": "node/4384588573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9590596,
+          38.9495544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4808785624",
+      "properties": {
+        "amenity": "cafe",
+        "name": "Revive",
+        "name:en": "Revive",
+        "id": "node/4808785624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9776174,
+          38.9423642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4812891826",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "latin_american",
+        "name": "Latin Soul",
+        "id": "node/4812891826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.936116,
+          38.9690615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4817039823",
+      "properties": {
+        "amenity": "bar",
+        "name": "Sunset Bar - Zephyr Cove Resort",
+        "name:en": "Sunset Bar - Zephyr Cove Resort",
+        "id": "node/4817039823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9485826,
+          39.0067852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4817039826",
+      "properties": {
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Fuel",
+        "opening_hours": "Su-Th 06:00-21:00; Fr-Sa 06:00-02:00",
+        "id": "node/4817039826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9404978,
+          38.9625775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4817057321",
+      "properties": {
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Alpine Union",
+        "name:en": "Alpine Union",
+        "id": "node/4817057321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9415211,
+          38.9615932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4898945421",
+      "properties": {
+        "amenity": "bar",
+        "id": "node/4898945421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.823942,
+          38.7748811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5417563736",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Sushi Pier",
+        "id": "node/5417563736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9343573,
+          38.971155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5805645753",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "arab;turkish;mediterranean",
+        "name": "Jimmy's",
+        "id": "node/5805645753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9495203,
+          38.9610055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6051838398",
+      "properties": {
+        "addr:city": "Tahoma",
+        "addr:housenumber": "7000",
+        "addr:postcode": "89502",
+        "addr:state": "CA",
+        "addr:street": "West Lake Boulevard",
+        "amenity": "restaurant",
+        "capacity": "71",
+        "cuisine": "pizza",
+        "name": "West Shore Pizza",
+        "opening_hours": "Mo-Th 16:00-21:00, Fr 16:00-22:00, Sa 12:00-22:00, Su 12:00-21:00",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "id": "node/6051838398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1289396,
+          39.0671445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6160291903",
+      "properties": {
+        "amenity": "cafe",
+        "cuisine": "gelato",
+        "name": "Where We Met",
+        "id": "node/6160291903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1285556,
+          39.0671133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6682032060",
+      "properties": {
+        "addr:city": "Stateline",
+        "addr:housenumber": "18 US-50",
+        "addr:postcode": "89449",
+        "addr:state": "NV",
+        "addr:street": "Stateline Avenue",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "19 Kitchen Bar",
+        "id": "node/6682032060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9423718,
+          38.9601418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6699547364",
+      "properties": {
+        "amenity": "cafe",
+        "name": "American River Café",
+        "id": "node/6699547364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.94076,
+          38.9597556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6699547667",
+      "properties": {
+        "addr:city": "Stateline",
+        "addr:housenumber": "18",
+        "addr:postcode": "89449",
+        "addr:state": "NV",
+        "addr:street": "Stateline Avenue",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "The Sage Room",
+        "phone": "(775) 588-2411",
+        "id": "node/6699547667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9421612,
+          38.9598054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6699553518",
+      "properties": {
+        "addr:city": "Stateline",
+        "addr:housenumber": "55",
+        "addr:postcode": "89449",
+        "addr:state": "NV",
+        "addr:street": "Lincoln Highway",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Ciera Steak + Chophouse",
+        "phone": "(775) 588-3515",
+        "id": "node/6699553518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9396269,
+          38.9616723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6699553519",
+      "properties": {
+        "addr:city": "Stateline",
+        "addr:housenumber": "31",
+        "addr:postcode": "89449",
+        "addr:state": "NV",
+        "addr:street": "Lincoln Highway",
+        "addr:unit": "104",
+        "amenity": "bar",
+        "name": "Lucky Beaver, Bar & Burger",
+        "id": "node/6699553519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9406315,
+          38.9609728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6699557201",
+      "properties": {
+        "addr:city": "Stateline",
+        "addr:housenumber": "15",
+        "addr:postcode": "89449",
+        "addr:state": "NV",
+        "addr:street": "Lincoln Highway",
+        "amenity": "restaurant",
+        "cuisine": "international;seafood",
+        "name": "Forest Buffet",
+        "phone": "(775) 588-6611",
+        "id": "node/6699557201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9404329,
+          38.9597466
+        ]
+      }
+    }
+  ]
+}
