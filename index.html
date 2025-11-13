@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waypoint Logic - Charting New Routes</title>
+    
+    <!-- Link to external stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Google Fonts - Feel free to change these -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 
+        NAVIGATION BAR
+        Fixed to top of page, follows user as they scroll
+        Modify the menu items in the <ul> list
+    -->
+    <nav class="navbar">
+        <div class="container">
+            <!-- Logo - modify src to change logo -->
+            <a href="#hero" class="logo">
+                <img src="waypoint_logic_logo_landscape_lockups.png" alt="Waypoint Logic">
+            </a>
+            
+            <!-- Navigation menu -->
+            <ul class="nav-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact" class="cta-button">Connect</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- 
+        HERO SECTION
+        Full-screen hero with background image and main headline
+        Change the background image by modifying background-image in CSS
+    -->
+    <section id="hero" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Charting new routes</h1>
+            <p class="hero-subtitle">Navigate technology. Build products. Create impact.</p>
+            <a href="#about" class="hero-cta">Learn More</a>
+        </div>
+    </section>
+
+    <!-- 
+        ABOUT SECTION
+        Tells your story and background
+        Modify the text within the <p> tags
+    -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About</h2>
+            <div class="about-content">
+                <p>
+                    Waypoint Logic represents my love for technology, the outdoors, and charting my own way. 
+                    My career path is filled with switchbacks, awe-inspiring views, flowy and technical sections, 
+                    not to mention a few false summits. Each intersection represented a change in direction, 
+                    helping me envision what new trails could look like and how to build them.
+                </p>
+                <p>
+                    What does it take to build a trail, a digital product, or a marketing strategy? It takes planning, 
+                    ground truthing, and problem-solving. What makes it easier and more fulfilling? When we use the 
+                    right tools, collaborate, and share stories.
+                </p>
+                <p>
+                    I am inspired by people and projects that bring communities together, encourage people to get outdoors, 
+                    and have a positive impact on our world. If that sounds like you or something you're working on, reach out!
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 
+        SERVICES SECTION
+        Lists what you can help with
+        Add or remove <li> items to modify the list
+    -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Ways I can help</h2>
+            <ul class="services-list">
+                <li>Evaluate your tech stack to get the most out of your investments and ditch what you don't need</li>
+                <li>Train teams on digital tools and collaboration workflows</li>
+                <li>Set up CRM, donation processing, and email marketing platforms</li>
+                <li>Establish best practices for AI based on use cases, ethics, and governance</li>
+                <li>Build web apps for internal or community engagement</li>
+            </ul>
+            
+            <!-- Call to action button - modify href to change LinkedIn URL -->
+            <a href="https://www.linkedin.com/in/your-profile" class="connect-button" target="_blank">
+                Connect on LinkedIn
+            </a>
+        </div>
+    </section>
+
+    <!-- 
+        PROJECTS SECTION
+        Showcase your work
+        Add more project cards by copying the .project-card div
+    -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2>Building in Public</h2>
+            <p class="projects-intro">
+                I love building digital experiences in the form of interactive maps, web apps, or invisible workflows.
+            </p>
+            
+            <div class="projects-grid">
+                <!-- Project Card - copy this entire div to add more projects -->
+                <div class="project-card">
+                    <h3>Lake Tahoe Forecast</h3>
+                    <p>Interactive weather forecast for Lake Tahoe</p>
+                    <a href="https://laketahoeforecast.com" target="_blank" class="project-link">
+                        Visit Site →
+                    </a>
+                </div>
+                
+                <!-- Add more project cards here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- 
+        FOOTER
+        Bottom of the page with contact info
+        Modify copyright year and links as needed
+    -->
+    <footer id="contact" class="footer">
+        <div class="container">
+            <img src="waypoint_logo-no_text.png" alt="Waypoint Logic Icon" class="footer-logo">
+            <p>&copy; 2024 Waypoint Logic. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- 
+        JavaScript file link
+        Handles smooth scrolling and navbar behavior
+    -->
+    <script src="script.js"></script>
+</body>
+</html>
